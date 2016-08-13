@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+ <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.android.courtcounterapp.MainActivity"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    >
+
+    <LinearLayout
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+
+    <LinearLayout
+        android:layout_weight="1"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_margin="@dimen/activity_vertical_margin"
+        android:id="@+id/teamA">
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="TEAM A"
+        android:textSize="15sp"
+        android:layout_gravity="center_horizontal"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="0"
+        android:textSize="56sp"
+        android:textColor="#000000"
+        android:layout_gravity="center_horizontal"
+        android:layout_margin="@dimen/activity_vertical_margin"
+        android:id="@+id/team_a_score"
+
+        />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="+3 POINTS"
+        android:layout_margin="8dp"
+        android:onClick="addThreeForTeamA"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="+2 POINTS"
+        android:layout_margin="8dp"
+        android:onClick="addTwoForTeamA"
+        />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="FREE THROW"
+        android:layout_margin="8dp"
+        android:onClick="addFreeThrowForTeamA"
+        />
+
+    </LinearLayout>
+
+        <View
+            android:layout_height="match_parent"
+            android:layout_width="1dp"
+            android:layout_centerVertical="true"
+            android:background="@android:color/darker_gray"
+            android:layout_marginTop="@dimen/activity_vertical_margin">
+        </View>
+
+    <LinearLayout
+        android:layout_weight="1"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_margin="@dimen/activity_vertical_margin">
+
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="TEAM B"
+        android:textSize="15sp"
+        android:layout_gravity="center_horizontal"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="0"
+        android:textSize="56sp"
+        android:textColor="#000000"
+        android:layout_gravity="center_horizontal"
+        android:layout_margin="@dimen/activity_vertical_margin"
+        android:id="@+id/team_b_score"
+
+        />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="+3 POINTS"
+        android:layout_margin="8dp"
+        android:onClick="addThreeForTeamB"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="+2 POINTS"
+        android:layout_margin="8dp"
+        android:onClick="addTwoForTeamB"
+        />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="FREE THROW"
+        android:layout_margin="8dp"
+        android:onClick="addFreeThrowForTeamB"
+    />
+    </LinearLayout>
+
+    </LinearLayout>
+
+
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="RESET"
+        android:onClick="ResetScore"
+        android:layout_centerInParent="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="32dp"/>
+
+
+
+
+
+</RelativeLayout>
+
