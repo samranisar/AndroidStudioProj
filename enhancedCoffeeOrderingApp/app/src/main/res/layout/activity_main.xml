@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+ <ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.android.enhancedcoffeeorderingapp.MainActivity"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:paddingBottom="@dimen/activity_vertical_margin"
+        android:paddingRight="@dimen/activity_horizontal_margin"
+        android:paddingTop="@dimen/activity_vertical_margin"
+        android:paddingLeft="@dimen/activity_horizontal_margin"
+        android:orientation="vertical"
+        >
+
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/name"
+            android:id="@+id/Name"
+            android:inputType="textCapWords"/>
+        <TextView
+            android:text="@string/toppings"
+            style="@style/HeaderTextStyle"
+            />
+        <CheckBox
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="24dp"
+            android:text="@string/whipped_cream"
+            android:textSize="16sp"
+            android:id="@+id/whipped_cream_checkbox"
+            android:layout_marginBottom="16dp" />
+        <CheckBox
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="24dp"
+            android:text="@string/chocolate"
+            android:textSize="16sp"
+            android:id="@+id/Chocolate_checkbox"
+            android:layout_marginBottom="16dp"/>
+
+        <TextView
+            android:text="@string/quantity"
+            style="@style/HeaderTextStyle" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <Button
+                android:layout_width="48dp"
+                android:layout_height="48dp"
+                android:text="@string/inc"
+                android:textSize="20sp"
+                android:onClick="Increment"
+                />
+
+            <TextView
+                android:id="@+id/coffee_quantity"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="20sp"
+                android:padding="8dp"
+                android:text="@string/zero"
+                android:textColor="#000000"
+                />
+
+            <Button
+                android:layout_width="48dp"
+                android:layout_height="48dp"
+                android:text="@string/dec"
+                android:textSize="20sp"
+                android:onClick="Decrement"
+                />
+        </LinearLayout>
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/order"
+            android:textSize="20sp"
+            android:layout_marginTop="16dp"
+            android:onClick="submitOrder" />
+
+
+    </LinearLayout>
+
+
+</ScrollView>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">enhancedCoffeeOrderingApp</string>
+    <string name="Chocolate">"Añadir cobertura de chocolate "</string>
+    <string name="_name">"\"Nombre: \" "</string>
+    <string name="_quantity">"Cantidad = "</string>
+    <string name="_thankyou">"¡Gracias! "</string>
+    <string name="_total">Total: $</string>
+    <string name="chocolate">"Chocolate "</string>
+    <string name="dec">-</string>
+    <string name="inc">+</string>
+    <string name="name">"Nombre "</string>
+    <string name="no_topping">"sin cobertura "</string>
+    <string name="order">Orden</string>
+    <string name="quantity">"CANTIDAD : "</string>
+    <string name="toast_dec">"No puedes tener menos de 1 café "</string>
+    <string name="toast_inc">"No puede tener más de 100 cafés "</string>
+    <string name="toppings">"TOPPINGS "</string>
+    <string name="whip_choc">"Añadir crema batida y cobertura de chocolate "</string>
+    <string name="whipped_Cream">"Añadir cobertura de crema batida "</string>
+    <string name="whipped_cream">"Crema batida "</string>
+    <string name="zero">0</string>
+    <string name="coffee_order">"Orden de café para "</string>
+</resources>
