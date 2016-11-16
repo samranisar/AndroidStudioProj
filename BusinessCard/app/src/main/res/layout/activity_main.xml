@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+<RelativeLayout
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:paddingBottom="@dimen/activity_vertical_margin"
@@ -28,7 +32,6 @@
         android:id="@+id/one"
         />
 
-
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -38,10 +41,25 @@
         android:layout_centerHorizontal="true"
         android:id="@+id/logo"/>
 
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/logo"
+        android:text="About us :"
+        android:textSize="20sp"
+        android:layout_marginTop="@dimen/activity_vertical_margin"
+        android:id="@+id/about"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Weddings are significant events in people's lives and as such, couples are often willing to spend considerable amount of money to ensure that their weddings are well-organized.We have professionals who assists with the design,planning and management of a clients wedding and make their event memorable."
+        android:layout_below="@id/about"
+        android:id="@+id/content"/>
+
     <ImageView
         android:layout_width="40dp"
         android:layout_height="40dp"
-        android:layout_below="@+id/logo"
+        android:layout_below="@id/content"
         android:layout_alignParentLeft="true"
         android:paddingTop="@dimen/activity_vertical_margin"
         android:paddingLeft="@dimen/activity_horizontal_margin"
@@ -54,12 +72,11 @@
         android:layout_height="wrap_content"
         android:text="+92 5654692624"
         android:layout_toRightOf="@+id/phone"
-        android:layout_below="@+id/logo"
+        android:layout_below="@+id/content"
         android:paddingTop="@dimen/activity_vertical_margin"
         android:paddingLeft="@dimen/activity_horizontal_margin"
         android:textSize="18sp"
-        android:id="@+id/two"
-        />
+        android:id="@+id/two"/>
 
     <ImageView
         android:layout_width="40dp"
@@ -124,4 +141,13 @@
         android:textSize="18sp"/>
 
 
+
+
+
+
+
+
+
+
 </RelativeLayout>
+</ScrollView>
