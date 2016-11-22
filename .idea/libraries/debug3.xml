@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="debug3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Courtcounterapp/app/build/intermediates/pre-dexed/debug/debug_68b5cb61d9b3bd364331dea219864e0a21524d01.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Courtcounterapp/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.4.0_a9396848f2f559d80d357c8a6452c6f1d0277084.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Courtcounterapp/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_018b02c5c98c2491cd5c8d8f12b55cacb27ee1ca.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Courtcounterapp/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_39c7d53029b785028a50495693fcc4429c80b71e.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Courtcounterapp/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_c852c255aa77781ced488f8529ae42183087d83f.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Courtcounterapp/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.4.0_cf9b8df641fc748209bdd676dbf13d501fd20f6a.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Courtcounterapp/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.4.0_5fa294e25e379cb41b02503d08ac8cdfce4c18b7.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

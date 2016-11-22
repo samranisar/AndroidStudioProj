@@ -1,0 +1,24 @@
+<component name="libraryTable">
+  <library name="debug4">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/QuizApplication/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_773910ffb31c5a18884171f7a7397c874289e767.jar!/" />
+      <root url="jar://$PROJECT_DIR$/QuizApplication/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.1_f5cea7273aa0b5895e66534d14625738133a0be6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/QuizApplication/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.1_6be6ba6cd6d789013a4df86ea1faf70096198498.jar!/" />
+      <root url="jar://$PROJECT_DIR$/QuizApplication/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.1_ae64af5a484f733d71a60d6a09366594a5903d78.jar!/" />
+      <root url="jar://$PROJECT_DIR$/QuizApplication/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_d0234208b46b4e7ddb151b75835c4828454c288f.jar!/" />
+      <root url="jar://$PROJECT_DIR$/QuizApplication/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.1_7212972415abeccfdfb17c75f3e4608cbc18c4a6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/QuizApplication/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_4fafb8dd4023ceeb633008c5edb02bf96d0ce99a.jar!/" />
+      <root url="jar://$PROJECT_DIR$/QuizApplication/app/build/intermediates/pre-dexed/debug/debug_6a77230c1b70ec905998c36a9f41a17dd38875af.jar!/" />
+      <root url="jar://$PROJECT_DIR$/QuizApplication/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.1_f4756b8db84489515e2aef6b7eda232cd477cc8a.jar!/" />
+      <root url="jar://$PROJECT_DIR$/QuizApplication/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_abf85d852bb58c2c53e62a531e35af1f50a9d677.jar!/" />
+      <root url="jar://$PROJECT_DIR$/QuizApplication/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_9be5370ebfde3285d2e03c57ac2226c8d075edf0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/QuizApplication/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_7de1c78eb8a082c5abd2a44e6ded142a4945a1c3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/QuizApplication/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.1_217c29449c2cf9c6fd84ed8159981ea1ca6dd729.jar!/" />
+      <root url="jar://$PROJECT_DIR$/QuizApplication/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_c5c75c453131d591a08fa7dd30b31a8f3009f365.jar!/" />
+      <root url="jar://$PROJECT_DIR$/QuizApplication/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_9bbe1f4e7e81f347f037eaddfaf98654fba7a7fd.jar!/" />
+      <root url="jar://$PROJECT_DIR$/QuizApplication/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_91cb5bd0c56d0038ef261c353bba575257fbdc5c.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

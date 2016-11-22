@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="debug1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/BusinessCard/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.4.0_2538d487249c09e7a3006388c508f98271525e37.jar!/" />
+      <root url="jar://$PROJECT_DIR$/BusinessCard/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.4.0_1a677aebfb3dfef3dde051de6c4c2cacf6ee25b6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/BusinessCard/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_d05943b4cb9e3c4e2d0f1547ba72d78c75cd85da.jar!/" />
+      <root url="jar://$PROJECT_DIR$/BusinessCard/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_c852c255aa77781ced488f8529ae42183087d83f.jar!/" />
+      <root url="jar://$PROJECT_DIR$/BusinessCard/app/build/intermediates/pre-dexed/debug/debug_ef714fa52b6fbb494f7724e9c14cc0c8d26954b1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/BusinessCard/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.4.0_fb8d514f6489580d3a195d9cc1ecf9367b513c73.jar!/" />
+      <root url="jar://$PROJECT_DIR$/BusinessCard/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_8b5b41926c5c17b23734291fb323d7f7237a8623.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

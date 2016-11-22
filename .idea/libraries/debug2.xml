@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="debug2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/coffeeOrderingApp/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.4.0_7e6c8dec591b4a45e7ccd05b8df98b16acb8cc14.jar!/" />
+      <root url="jar://$PROJECT_DIR$/coffeeOrderingApp/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.4.0_99e835faa89135be3dbfb763445d61aed5e02213.jar!/" />
+      <root url="jar://$PROJECT_DIR$/coffeeOrderingApp/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_55fa407c5a290cb12bb0c12670b32d2c2df8f7ce.jar!/" />
+      <root url="jar://$PROJECT_DIR$/coffeeOrderingApp/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_c852c255aa77781ced488f8529ae42183087d83f.jar!/" />
+      <root url="jar://$PROJECT_DIR$/coffeeOrderingApp/app/build/intermediates/pre-dexed/debug/instant-run_ebde07383bea36c459b681d38f46c69ba4f08469.jar!/" />
+      <root url="jar://$PROJECT_DIR$/coffeeOrderingApp/app/build/intermediates/pre-dexed/debug/main_7c784b18795af50dabf939f0921bd7dce51a4abd.jar!/" />
+      <root url="jar://$PROJECT_DIR$/coffeeOrderingApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_487e7d23793b2af96de6fe8f14c5e89b173a8c02.jar!/" />
+      <root url="jar://$PROJECT_DIR$/coffeeOrderingApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.4.0_9885ceff54f7488c2a5b33ab69ed8d4d171df167.jar!/" />
+      <root url="jar://$PROJECT_DIR$/coffeeOrderingApp/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_945706b1f1e84ab40bd580fa7a01f07427592838.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

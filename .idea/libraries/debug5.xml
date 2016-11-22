@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="debug5">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/HappyBirthday/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.4.0_3d7edc82ca79a09ec77f07d2c446d5e5073ccd7a.jar!/" />
+      <root url="jar://$PROJECT_DIR$/HappyBirthday/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_fbef13956cb398805ab5e1265837f750cd5c0965.jar!/" />
+      <root url="jar://$PROJECT_DIR$/HappyBirthday/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.4.0_6bb93af8deeb684de5e82b94e424cba8a1649e78.jar!/" />
+      <root url="jar://$PROJECT_DIR$/HappyBirthday/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_c852c255aa77781ced488f8529ae42183087d83f.jar!/" />
+      <root url="jar://$PROJECT_DIR$/HappyBirthday/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_fa156023d6b60ba91325aada2545b2e60b916843.jar!/" />
+      <root url="jar://$PROJECT_DIR$/HappyBirthday/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_0a855067f969733db713014f0261f8d7a3cb6c36.jar!/" />
+      <root url="jar://$PROJECT_DIR$/HappyBirthday/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.4.0_6686bc3b5e6d2745f0ae7497cc0d073bba8103b3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/HappyBirthday/app/build/intermediates/pre-dexed/debug/main_77e764d9b79944a50dc5e65381cd12e31819eb4f.jar!/" />
+      <root url="jar://$PROJECT_DIR$/HappyBirthday/app/build/intermediates/pre-dexed/debug/instant-run_fd0657d0d96f6e94c3986c80c34e82cd60c60b85.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
